@@ -1,1 +1,2 @@
-TwoK shop GitHub repository
+# image-hosting
+TwoK Beauty Product Images Repository
